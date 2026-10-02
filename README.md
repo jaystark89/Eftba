@@ -43,7 +43,7 @@ If you start typing (or bump a key) while the game is printing you might acciden
 
 That can result in a wasted turn.
 
-To prevent that you can always zero out your input with [Backspace] to make sure your command is enterely cleanly!
+To prevent that you can always zero out your input with [Backspace] to make sure your command is entered cleanly!
 
 Thanks so much for playing Eftba! You are the true champion!
 
