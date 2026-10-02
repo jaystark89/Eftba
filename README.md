@@ -14,12 +14,16 @@ If you want to play this game with full-emoji support (recommended) 😁
 then I recommend running it with Windows Terminal! (Available from the Microsoft Store)
 
 Then run the windows terminal. Navigate to your Eftba installation.
-(cd Documents\Eftba)
+(e.g. 'cd Documents\Eftba')
 
 Then run the Eftba.exe with windows terminal like this.
 ( .\Eftba.exe )
 
 ======
+
+(I also recommend playing this game while listening to some sick fantasy tunes!)
+
+=== TIPS & INFO ===
 
 You can manually quit at any time with Ctrl + C !
 
